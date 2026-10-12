@@ -1,0 +1,33 @@
+{
+  "cluster": "mainnet",
+  "programs": [
+    {
+      "lib": "acorn_jar",
+      "hash": "072b79e31e029aeba1aab742f764c94ced2f95c5b06997ef949fc85db345929a",
+      "name": "acorn-jar",
+      "bytes": 29384,
+      "verified": true,
+      "programId": "HCsMedpTyHJb2xEiXrpJeQeQzjbuSUZrrHJuvvB1MVEi",
+      "signature": "4Zaf79PMWyepxEbdrLw8vQkdQgvhgE6dSGH3JwbkETK56WU5CXhrzSYWF4ySVxmb3RzTt9ThwgoXmvPB8evPm9tw",
+      "upgradeAuthority": "AWw5zm8poQtdL8fntgabub4JgEFyoaqqtSMNwEA7zDz4"
+    }
+  ],
+  "programsDeployed": true,
+  "sourceCode": "https://github.com/MyrmexAI/acorn-jar-is-a-community-02d03091",
+  "token": {
+    "mint": "ANX3ACp6iaEmQ1VDEjiYF6uKDp4NA4E5126q2BS4pump",
+    "venue": "pumpfun",
+    "creator": "7oBKk1o6Rp8MCAfkctWQbdnhf88FojeqdgRZmRYqVc4u",
+    "decimals": 6,
+    "tokenProgram": "token-2022"
+  },
+  "pool": {
+    "dex": "pumpfun",
+    "creator": "7oBKk1o6Rp8MCAfkctWQbdnhf88FojeqdgRZmRYqVc4u",
+    "signatures": [
+      "4XnzPsNhg3e6JUDvGz8w2S9CESatXicbTGi8JVtETdujKbFGryt2VtcpcRHJyyKYZzgPcXY5xBF2Hdw2mGmBXgcM"
+    ]
+  },
+  "pumpfun": "https://pump.fun/coin/ANX3ACp6iaEmQ1VDEjiYF6uKDp4NA4E5126q2BS4pump",
+  "twitter": null
+}
